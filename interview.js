@@ -26,6 +26,7 @@ function getMaxMin(matrix) {
   return Array.from(candidates);
 }
 
+// validation test
 const matrix = [
   [5, 16, 20],
   [9, 11, 18],
